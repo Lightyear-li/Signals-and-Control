@@ -117,7 +117,7 @@ $<f_jm>\
 基于电机基本参数，我们在Simulink中建立电机的模型，如图@img_simulink 所示。
 
 #figure(
-    image("./img/yunyun.png"),
+    image("./img/simulink.png"),
     caption: [Simulink电机模型],
 )<img_simulink>
 
